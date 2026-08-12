@@ -1,128 +1,133 @@
-# Hi, I'm Marshal Godhani 👋
+<div align="center">
 
-### Computer Science Engineering Student | Cloud & DevOps | AWS | Python
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=180&section=header&text=Marshal%20Godhani&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20%7C%20DevOps%20%7C%20AWS%20%7C%20Linux%20%7C%20Docker&descAlignY=55&descSize=15" width="100%"/>
 
-I'm a Computer Science Engineering student interested in building **practical software systems, cloud infrastructure, and automated deployments**.
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Cloud+Computing+%26+DevOps;AWS+%E2%80%A2+Linux+%E2%80%A2+Docker+%E2%80%A2+Python+%E2%80%A2+Django" alt="Typing SVG"/>
 
-Currently, I'm focusing on **AWS, Cloud Computing, DevOps, Python/Django, and Data Structures & Algorithms** while building projects that turn concepts into real-world implementations.
+<br/>
 
----
+<a href="https://github.com/marshal0207"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marshal-godhani-abb69b323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/marshal_godhani/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
-## 🚀 What I'm Working On
+</div>
 
-* ☁️ Learning **AWS & Cloud Architecture**
-* ⚙️ Exploring **DevOps, Docker, Terraform & CI/CD**
-* 🐍 Building applications with **Python & Django**
-* 🔌 Developing **REST APIs & full-stack applications**
-* 💻 Practicing **Data Structures & Algorithms with C++**
-* 🛠️ Building practical cloud and deployment projects
+<br/>
 
----
+## 🧑‍💻 About Me
 
-## 🧰 Tech Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-### Backend & Web
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### ☁️ CloudWise
-
-**Multi-cloud cost advisor and deployment platform**
-
-A cloud-focused project designed to analyze infrastructure costs and assist with cloud deployment and optimization.
-
-**Focus:** Cloud Computing • AWS • Automation • Cost Optimization
-
----
-
-### 🏙️ Civic Catalyst
-
-**Civic issue reporting and resolution platform**
-
-A platform designed to help citizens report local issues and help administrators track, manage, and resolve them.
-
-**Focus:** Python • Django • REST APIs • Database • Maps • Full Stack
-
----
-
-## 📚 Currently Learning
-
-```text
-Cloud
- ├── AWS
- ├── Cloud Architecture
- ├── Networking
- └── Security
-
-DevOps
- ├── Linux
- ├── Docker
- ├── Terraform
- ├── CI/CD
- └── Monitoring
-
-Development
- ├── Python
- ├── Django
- ├── REST APIs
- └── Databases
+```yaml
+name: Marshal Godhani
+role: Computer Science Student
+focus: Cloud Computing & DevOps
+stack: Python • Django • AWS • Linux • Docker
+currently_building: CloudWise — a cloud cost & deployment platform
+currently_learning: AWS architecture • Linux • Docker • CI/CD
+fun_fact: I debug faster with coffee than without ☕
 ```
 
----
+<br/>
 
-## 💻 Problem Solving
+## ⚡ Tech Stack
 
-I regularly practice **Data Structures & Algorithms** using C++ and work on problems involving:
+**Languages & Frameworks**
 
-`Arrays` • `Strings` • `Linked Lists` • `Stacks & Queues` • `Trees` • `Graphs` • `Greedy` • `Dynamic Programming`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,cpp,java,js,html,css&perline=7&theme=dark"/>
+</p>
 
----
+**Tools & Platforms**
 
-## 📊 GitHub Activity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,mysql,mongodb&perline=7&theme=dark"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marshal0207\&show_icons=true\&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marshal0207\&layout=compact\&hide_border=true)
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readmeapp.vercel.app/api?username=marshal0207&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=marshal0207&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="165"/>
+</p>
 
-## 🔗 Connect With Me
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marshal0207&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="60%"/>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/marshal0207)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/marshal-godhani-abb69b323)
+## 📈 Contribution Activity
 
----
+<p align="center">
+  <a href="https://github.com/marshal0207">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=marshal0207&custom_title=Contribution%20Activity&bg_color=0d1117&color=58A6FF&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+  </a>
+</p>
 
-### 💡 Build → Deploy → Automate → Learn
+<br/>
 
-> Always learning. Always building.
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">☁️ CloudWise</h3>
+      <p align="center">Cloud cost optimization and deployment platform designed to help manage cloud resources and streamline application deployments.</p>
+      <p align="center">
+        <a href="https://github.com/marshal0207/cloud-wise"><img src="https://img.shields.io/badge/View%20Project-00FF41?style=for-the-badge&logo=amazonaws&logoColor=black"/></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏙️ Civic Catalyst <sub>— Team Project</sub></h3>
+      <p align="center">A civic issue reporting platform enabling users to report, track, and manage community issues through a centralized web application.</p>
+      <p align="center">
+        <a href="https://github.com/ShivamJoshi7906/CIVIC_CATALYST"><img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚲 Campus Cycle</h3>
+      <p align="center">A campus-focused platform designed to support student-to-student sharing and exchange of resources within the campus community.</p>
+      <p align="center">
+        <a href="https://github.com/marshal0207/Campus-Cycle"><img src="https://img.shields.io/badge/View%20Project-FFA116?style=for-the-badge&logo=github&logoColor=black"/></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏏 IPL Cricket Analytics Dashboard</h3>
+      <p align="center">An interactive data analytics dashboard for exploring IPL cricket statistics, team performance, and player insights.</p>
+      <p align="center">
+        <a href="https://github.com/marshal0207/ipl-cricket-analytics-dashboard"><img src="https://img.shields.io/badge/View%20Project-9B59B6?style=for-the-badge&logo=python&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🧩 Coding & DSA
+
+<p align="center">
+  Practicing data structures & algorithms on LeetCode.
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/marshal_godhani/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+
+<br/>
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/marshal0207"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/marshal-godhani-abb69b323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/marshal_godhani/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=90&section=footer"/>
+
+<div align="center">
+  <sub>Made with ❤️ by Marshal Godhani</sub>
+</div>
