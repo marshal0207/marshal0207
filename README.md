@@ -30,13 +30,13 @@ fun_fact: I debug faster with coffee than without ☕
 
 ## ⚡ Tech Stack
 
-**Languages & Frameworks**
+<p align="center"><sub>Languages & Frameworks</sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,cpp,java,js,html,css&perline=7&theme=dark"/>
 </p>
 
-**Tools & Platforms**
+<p align="center"><sub>Tools & Platforms</sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,mysql,mongodb&perline=7&theme=dark"/>
@@ -47,12 +47,16 @@ fun_fact: I debug faster with coffee than without ☕
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=marshal0207&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=marshal0207&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marshal0207&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshal0207&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=marshal0207&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="60%"/>
+</p>
+
+<p align="center">
+  <sub>⚠️ Stats cards are served by a free public API and may occasionally show a temporary rate-limit error — they typically recover on their own within a few minutes.</sub>
 </p>
 
 <br/>
